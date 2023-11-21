@@ -1,12 +1,11 @@
 # Default ignored files
 /shelf/
 /workspace.xml
-/.idea/.name
-/.idea/compiler.xml
-/.idea/misc.xml
-/.idea/vcs.xml
-/.idea/modules.xml
-/.idea/jarRepositories.xml
-/target/
-
-
+/.name
+/compiler.xml
+/misc.xml
+/vcs.xml
+/modules.xml
+/jarRepositories.xml
+/target
+../target/
