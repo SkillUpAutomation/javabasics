@@ -1,2 +1,4 @@
-/target/
+# Default ignored files
 /.idea/
+/PracticeJavaCode.iml
+target/
